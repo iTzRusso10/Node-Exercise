@@ -1,5 +1,4 @@
 const supertest = require("supertest");
-const jestConfig = require("../jest.config.js");
 const createApp = require("./app.js");
 
 const app = createApp();
