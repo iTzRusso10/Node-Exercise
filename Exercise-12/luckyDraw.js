@@ -1,5 +1,4 @@
 const clc = require('cli-color');
-const { agent } = require('supertest');
 
 const luckyDraw = (player) => {
     return new Promise((resolve, reject) => {
