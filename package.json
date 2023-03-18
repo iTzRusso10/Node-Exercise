@@ -9,6 +9,7 @@
   "author": "Giuseppe Russo",
   "license": "ISC",
   "dependencies": {
+    "cli-color": "^2.0.3",
     "figlet": "^1.5.2",
     "jest": "^29.5.0",
     "supertest": "^6.3.3"
