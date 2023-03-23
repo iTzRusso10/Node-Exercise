@@ -25,7 +25,7 @@ const familyTree = [
   ];
 
   console.dir(familyTree, { depth: null });
-  console.table({familyTree});
+  console.table({ familyTree });
 
   const importantTask = () => {
     console.count("Count");
